@@ -1,0 +1,5 @@
+
+RewriteEngine On
+
+RewriteRule ^profile/?$ /index.html [L]
+git add .htaccess
